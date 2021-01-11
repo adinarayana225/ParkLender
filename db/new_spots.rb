@@ -1,0 +1,3 @@
+NEW_SPOT_PHOTOS = [
+  
+]
